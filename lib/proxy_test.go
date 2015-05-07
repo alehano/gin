@@ -2,7 +2,7 @@ package gin_test
 
 import (
 	"fmt"
-	"github.com/codegangsta/gin/lib"
+	"github.com/alehano/gin/lib"
 	"io/ioutil"
 	"net/http"
 	"net/http/httptest"
